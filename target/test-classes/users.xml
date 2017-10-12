@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<userModels>
+    <userModel>
+        <login>test.matsyshyn.1@gmail.com</login>
+        <password>passwordtest</password>
+    </userModel>
+
+    <userModel>
+        <login>test.matsyshyn.2@gmail.com</login>
+        <password>passwordtest</password>
+    </userModel>
+
+    <userModel>
+        <login>test.matsyshyn.3@gmail.com</login>
+        <password>passwordtest</password>
+    </userModel>
+
+    <userModel>
+        <login>test.matsyshyn.4@gmail.com</login>
+        <password>passwordtest</password>
+    </userModel>
+
+    <userModel>
+        <login>test.matsyshyn.5@gmail.com</login>
+        <password>passwordtest</password>
+    </userModel>
+
+</userModels>

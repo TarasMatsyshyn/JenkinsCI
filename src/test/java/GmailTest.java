@@ -7,7 +7,7 @@ import utils.ChromeDriverSingleton;
 import utils.PropertiesParser;
 import utils.TestNGListener;
 
-//@Listeners({TestNGListener.class})
+@Listeners({TestNGListener.class})
 public class GmailTest {
     private static final Logger LOGGER = Logger.getLogger(GmailTest.class.getName());
 

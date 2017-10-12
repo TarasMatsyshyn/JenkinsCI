@@ -1,0 +1,6 @@
+Feature: Test Gmail Smoke scenario
+
+  Scenario: Test Gmail login
+    Given Open 'http://www.gmail.com' in Chrome browser
+    When I type valid credentials
+    Then User will be able to login successfully

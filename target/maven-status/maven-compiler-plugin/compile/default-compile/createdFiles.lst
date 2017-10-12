@@ -1,0 +1,11 @@
+utils\TestNGListener.class
+utils\ReportAppender.class
+pageObjects\GmailLoginPO.class
+model\Users.class
+model\UserModel.class
+utils\PropertiesParser.class
+utils\CSVParser.class
+utils\XLSParser.class
+utils\XMLParser.class
+utils\ChromeDriverSingleton$1.class
+utils\ChromeDriverSingleton.class
