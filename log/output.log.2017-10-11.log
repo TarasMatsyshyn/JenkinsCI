@@ -1,0 +1,18 @@
+2017-10-11 16:59:40 INFO  TestNGListener : 39 : test starts Surefire test on Wed Oct 11 16:59:40 EEST 2017
+2017-10-11 16:59:40 INFO  TestNGListener : 39 : test starts Surefire test on Wed Oct 11 16:59:40 EEST 2017
+2017-10-11 16:59:40 INFO  TestNGListener : 29 : test skipped null
+2017-10-11 16:59:40 INFO  TestNGListener : 44 : test ends Surefire test onWed Oct 11 16:59:40 EEST 2017
+2017-10-11 16:59:40 INFO  TestNGListener : 29 : test skipped null
+2017-10-11 16:59:40 INFO  TestNGListener : 44 : test ends Surefire test onWed Oct 11 16:59:40 EEST 2017
+2017-10-11 17:01:48 INFO  TestNGListener : 39 : test starts Surefire test on Wed Oct 11 17:01:48 EEST 2017
+2017-10-11 17:01:48 INFO  TestNGListener : 29 : test skipped null
+2017-10-11 17:01:48 INFO  TestNGListener : 44 : test ends Surefire test onWed Oct 11 17:01:48 EEST 2017
+2017-10-11 17:02:49 INFO  TestNGListener : 39 : test starts Surefire test on Wed Oct 11 17:02:49 EEST 2017
+2017-10-11 17:02:49 INFO  TestNGListener : 29 : test skipped null
+2017-10-11 17:02:49 INFO  TestNGListener : 44 : test ends Surefire test onWed Oct 11 17:02:49 EEST 2017
+2017-10-11 17:03:53 INFO  TestNGListener : 39 : test starts JenkinsCI on Wed Oct 11 17:03:53 EEST 2017
+2017-10-11 17:03:55 INFO  TestNGListener : 29 : test skipped null
+2017-10-11 17:03:55 INFO  TestNGListener : 44 : test ends JenkinsCI onWed Oct 11 17:03:55 EEST 2017
+2017-10-11 17:05:53 INFO  TestNGListener : 39 : test starts JenkinsCI on Wed Oct 11 17:05:53 EEST 2017
+2017-10-11 17:05:53 INFO  TestNGListener : 24 : test failed null
+2017-10-11 17:05:53 INFO  TestNGListener : 44 : test ends JenkinsCI onWed Oct 11 17:05:53 EEST 2017

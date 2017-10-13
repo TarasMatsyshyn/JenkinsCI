@@ -1,7 +1,9 @@
 import org.apache.log4j.Logger;
+import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
+import pageObjects.GmailInputMessagesPO;
 import pageObjects.GmailLoginPO;
 import utils.ChromeDriverSingleton;
 import utils.PropertiesParser;
@@ -22,6 +24,10 @@ public class GmailTest {
         GmailLoginPO login = new GmailLoginPO();
         login.typeLogin(email);
         login.typePassword(password);
+
+    GmailInputMessagesPO gmailInputMessagesPO = new GmailInputMessagesPO();
+    System.out.println(gmailInputMessagesPO.checkLogin());
+    Assert.assertTrue(gmailInputMessagesPO.checkLogin());
     }
 
     @AfterMethod

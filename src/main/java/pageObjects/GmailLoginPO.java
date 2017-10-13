@@ -21,7 +21,6 @@ public class GmailLoginPO {
 
     public GmailLoginPO() {
         PageFactory.initElements(ChromeDriverSingleton.getDriver(), this);
-
     }
 
     public void typeLogin(String email){

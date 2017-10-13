@@ -1,18 +1,72 @@
-2017-10-11 16:59:40 INFO  TestNGListener : 39 : test starts Surefire test on Wed Oct 11 16:59:40 EEST 2017
-2017-10-11 16:59:40 INFO  TestNGListener : 39 : test starts Surefire test on Wed Oct 11 16:59:40 EEST 2017
-2017-10-11 16:59:40 INFO  TestNGListener : 29 : test skipped null
-2017-10-11 16:59:40 INFO  TestNGListener : 44 : test ends Surefire test onWed Oct 11 16:59:40 EEST 2017
-2017-10-11 16:59:40 INFO  TestNGListener : 29 : test skipped null
-2017-10-11 16:59:40 INFO  TestNGListener : 44 : test ends Surefire test onWed Oct 11 16:59:40 EEST 2017
-2017-10-11 17:01:48 INFO  TestNGListener : 39 : test starts Surefire test on Wed Oct 11 17:01:48 EEST 2017
-2017-10-11 17:01:48 INFO  TestNGListener : 29 : test skipped null
-2017-10-11 17:01:48 INFO  TestNGListener : 44 : test ends Surefire test onWed Oct 11 17:01:48 EEST 2017
-2017-10-11 17:02:49 INFO  TestNGListener : 39 : test starts Surefire test on Wed Oct 11 17:02:49 EEST 2017
-2017-10-11 17:02:49 INFO  TestNGListener : 29 : test skipped null
-2017-10-11 17:02:49 INFO  TestNGListener : 44 : test ends Surefire test onWed Oct 11 17:02:49 EEST 2017
-2017-10-11 17:03:53 INFO  TestNGListener : 39 : test starts JenkinsCI on Wed Oct 11 17:03:53 EEST 2017
-2017-10-11 17:03:55 INFO  TestNGListener : 29 : test skipped null
-2017-10-11 17:03:55 INFO  TestNGListener : 44 : test ends JenkinsCI onWed Oct 11 17:03:55 EEST 2017
-2017-10-11 17:05:53 INFO  TestNGListener : 39 : test starts JenkinsCI on Wed Oct 11 17:05:53 EEST 2017
-2017-10-11 17:05:53 INFO  TestNGListener : 24 : test failed null
-2017-10-11 17:05:53 INFO  TestNGListener : 44 : test ends JenkinsCI onWed Oct 11 17:05:53 EEST 2017
+2017-10-13 00:23:43 INFO  TestNGListener : 39 : test starts JenkinsCI on Fri Oct 13 00:23:43 EEST 2017
+2017-10-13 00:23:44 INFO  TestNGListener : 14 : test starts null
+2017-10-13 00:23:44 INFO  TestNGListener : 14 : test starts null
+2017-10-13 00:23:44 INFO  TestNGListener : 14 : test starts null
+2017-10-13 00:23:44 INFO  TestNGListener : 14 : test starts null
+2017-10-13 00:23:44 INFO  TestNGListener : 14 : test starts null
+2017-10-13 00:24:27 INFO  TestNGListener : 24 : test failed null
+2017-10-13 00:24:35 INFO  TestNGListener : 24 : test failed null
+2017-10-13 00:24:35 INFO  TestNGListener : 24 : test failed null
+2017-10-13 00:24:36 INFO  TestNGListener : 24 : test failed null
+2017-10-13 00:24:48 INFO  TestNGListener : 24 : test failed null
+2017-10-13 00:24:50 INFO  TestNGListener : 44 : test ends JenkinsCI onFri Oct 13 00:24:50 EEST 2017
+2017-10-13 00:27:55 INFO  TestNGListener : 39 : test starts JenkinsCI on Fri Oct 13 00:27:55 EEST 2017
+2017-10-13 00:27:55 INFO  TestNGListener : 14 : test starts null
+2017-10-13 00:27:55 INFO  TestNGListener : 14 : test starts null
+2017-10-13 00:27:55 INFO  TestNGListener : 14 : test starts null
+2017-10-13 00:27:55 INFO  TestNGListener : 14 : test starts null
+2017-10-13 00:27:55 INFO  TestNGListener : 14 : test starts null
+2017-10-13 00:28:41 INFO  TestNGListener : 24 : test failed null
+2017-10-13 00:28:52 INFO  TestNGListener : 24 : test failed null
+2017-10-13 00:28:56 INFO  TestNGListener : 24 : test failed null
+2017-10-13 00:28:58 INFO  TestNGListener : 24 : test failed null
+2017-10-13 00:28:59 INFO  TestNGListener : 24 : test failed null
+2017-10-13 00:29:01 INFO  TestNGListener : 44 : test ends JenkinsCI onFri Oct 13 00:29:01 EEST 2017
+2017-10-13 00:31:11 INFO  TestNGListener : 39 : test starts JenkinsCI on Fri Oct 13 00:31:11 EEST 2017
+2017-10-13 00:31:11 INFO  TestNGListener : 14 : test starts null
+2017-10-13 00:31:11 INFO  TestNGListener : 14 : test starts null
+2017-10-13 00:31:11 INFO  TestNGListener : 14 : test starts null
+2017-10-13 00:31:11 INFO  TestNGListener : 14 : test starts null
+2017-10-13 00:31:11 INFO  TestNGListener : 14 : test starts null
+2017-10-13 00:32:10 INFO  TestNGListener : 24 : test failed null
+2017-10-13 00:32:22 INFO  TestNGListener : 24 : test failed null
+2017-10-13 00:32:36 INFO  TestNGListener : 24 : test failed null
+2017-10-13 00:33:03 INFO  TestNGListener : 24 : test failed null
+2017-10-13 00:33:04 INFO  TestNGListener : 24 : test failed null
+2017-10-13 00:33:06 INFO  TestNGListener : 44 : test ends JenkinsCI onFri Oct 13 00:33:06 EEST 2017
+2017-10-13 09:00:55 INFO  TestNGListener : 39 : test starts JenkinsCI on Fri Oct 13 09:00:55 EEST 2017
+2017-10-13 09:00:56 INFO  TestNGListener : 14 : test starts null
+2017-10-13 09:00:56 INFO  TestNGListener : 14 : test starts null
+2017-10-13 09:00:56 INFO  TestNGListener : 14 : test starts null
+2017-10-13 09:00:56 INFO  TestNGListener : 14 : test starts null
+2017-10-13 09:00:56 INFO  TestNGListener : 14 : test starts null
+2017-10-13 09:04:18 INFO  TestNGListener : 24 : test failed null
+2017-10-13 09:04:36 INFO  TestNGListener : 24 : test failed null
+2017-10-13 09:07:13 INFO  TestNGListener : 24 : test failed null
+2017-10-13 09:07:14 INFO  TestNGListener : 24 : test failed null
+2017-10-13 09:07:32 INFO  TestNGListener : 24 : test failed null
+2017-10-13 09:07:42 INFO  TestNGListener : 44 : test ends JenkinsCI onFri Oct 13 09:07:42 EEST 2017
+2017-10-13 09:10:07 INFO  TestNGListener : 39 : test starts JenkinsCI on Fri Oct 13 09:10:06 EEST 2017
+2017-10-13 09:10:07 INFO  TestNGListener : 14 : test starts null
+2017-10-13 09:10:07 INFO  TestNGListener : 14 : test starts null
+2017-10-13 09:10:07 INFO  TestNGListener : 14 : test starts null
+2017-10-13 09:10:07 INFO  TestNGListener : 14 : test starts null
+2017-10-13 09:10:07 INFO  TestNGListener : 14 : test starts null
+2017-10-13 09:12:24 INFO  TestNGListener : 24 : test failed null
+2017-10-13 09:12:50 INFO  TestNGListener : 24 : test failed null
+2017-10-13 09:14:29 INFO  TestNGListener : 24 : test failed null
+2017-10-13 09:14:30 INFO  TestNGListener : 24 : test failed null
+2017-10-13 09:14:30 INFO  TestNGListener : 24 : test failed null
+2017-10-13 09:14:39 INFO  TestNGListener : 44 : test ends JenkinsCI onFri Oct 13 09:14:39 EEST 2017
+2017-10-13 09:18:11 INFO  TestNGListener : 39 : test starts JenkinsCI on Fri Oct 13 09:18:11 EEST 2017
+2017-10-13 09:18:13 INFO  TestNGListener : 14 : test starts null
+2017-10-13 09:18:13 INFO  TestNGListener : 14 : test starts null
+2017-10-13 09:18:13 INFO  TestNGListener : 14 : test starts null
+2017-10-13 09:18:13 INFO  TestNGListener : 14 : test starts null
+2017-10-13 09:18:13 INFO  TestNGListener : 14 : test starts null
+2017-10-13 09:20:20 INFO  TestNGListener : 24 : test failed null
+2017-10-13 09:21:38 INFO  TestNGListener : 24 : test failed null
+2017-10-13 09:22:02 INFO  TestNGListener : 19 : test passed null during time 228760
+2017-10-13 09:22:35 INFO  TestNGListener : 24 : test failed null
+2017-10-13 09:22:36 INFO  TestNGListener : 19 : test passed null during time 263659
+2017-10-13 09:22:39 INFO  TestNGListener : 44 : test ends JenkinsCI onFri Oct 13 09:22:39 EEST 2017
