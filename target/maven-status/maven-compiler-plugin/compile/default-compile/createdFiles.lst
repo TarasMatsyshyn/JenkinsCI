@@ -1,5 +1,6 @@
 utils\TestNGListener.class
 utils\ReportAppender.class
+pageObjects\GmailInputMessagesPO.class
 pageObjects\GmailLoginPO.class
 model\Users.class
 model\UserModel.class

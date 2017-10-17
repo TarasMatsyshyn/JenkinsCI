@@ -70,3 +70,57 @@
 2017-10-13 09:22:35 INFO  TestNGListener : 24 : test failed null
 2017-10-13 09:22:36 INFO  TestNGListener : 19 : test passed null during time 263659
 2017-10-13 09:22:39 INFO  TestNGListener : 44 : test ends JenkinsCI onFri Oct 13 09:22:39 EEST 2017
+2017-10-17 11:17:33 INFO  TestNGListener : 39 : test starts Surefire test on Tue Oct 17 11:17:33 EEST 2017
+2017-10-17 11:17:33 INFO  TestNGListener : 24 : test failed null
+2017-10-17 11:17:33 INFO  TestNGListener : 44 : test ends Surefire test onTue Oct 17 11:17:33 EEST 2017
+2017-10-17 11:18:57 INFO  TestNGListener : 39 : test starts Surefire test on Tue Oct 17 11:18:57 EEST 2017
+2017-10-17 11:18:57 INFO  TestNGListener : 24 : test failed null
+2017-10-17 11:18:57 INFO  TestNGListener : 44 : test ends Surefire test onTue Oct 17 11:18:57 EEST 2017
+2017-10-17 11:22:47 INFO  TestNGListener : 39 : test starts Surefire test on Tue Oct 17 11:22:47 EEST 2017
+2017-10-17 11:22:47 INFO  TestNGListener : 14 : test starts null
+2017-10-17 11:22:47 INFO  TestNGListener : 14 : test starts null
+2017-10-17 11:22:47 INFO  TestNGListener : 14 : test starts null
+2017-10-17 11:22:47 INFO  TestNGListener : 14 : test starts null
+2017-10-17 11:22:47 INFO  TestNGListener : 14 : test starts null
+2017-10-17 11:23:13 INFO  TestNGListener : 19 : test passed null during time 25218
+2017-10-17 11:23:14 INFO  TestNGListener : 24 : test failed null
+2017-10-17 11:23:15 INFO  TestNGListener : 19 : test passed null during time 27800
+2017-10-17 11:23:34 INFO  TestNGListener : 24 : test failed null
+2017-10-17 11:23:34 INFO  TestNGListener : 24 : test failed null
+2017-10-17 11:23:35 INFO  TestNGListener : 44 : test ends Surefire test onTue Oct 17 11:23:35 EEST 2017
+2017-10-17 11:26:43 INFO  TestNGListener : 39 : test starts Surefire test on Tue Oct 17 11:26:43 EEST 2017
+2017-10-17 11:26:43 INFO  TestNGListener : 14 : test starts null
+2017-10-17 11:26:43 INFO  TestNGListener : 14 : test starts null
+2017-10-17 11:26:43 INFO  TestNGListener : 14 : test starts null
+2017-10-17 11:26:43 INFO  TestNGListener : 14 : test starts null
+2017-10-17 11:26:43 INFO  TestNGListener : 14 : test starts null
+2017-10-17 11:27:10 INFO  TestNGListener : 24 : test failed null
+2017-10-17 11:27:23 INFO  TestNGListener : 19 : test passed null during time 39860
+2017-10-17 11:27:34 INFO  TestNGListener : 24 : test failed null
+2017-10-17 11:27:34 INFO  TestNGListener : 24 : test failed null
+2017-10-17 11:27:35 INFO  TestNGListener : 24 : test failed null
+2017-10-17 11:27:36 INFO  TestNGListener : 44 : test ends Surefire test onTue Oct 17 11:27:36 EEST 2017
+2017-10-17 11:28:53 INFO  TestNGListener : 39 : test starts Surefire test on Tue Oct 17 11:28:53 EEST 2017
+2017-10-17 11:28:53 INFO  TestNGListener : 14 : test starts null
+2017-10-17 11:28:53 INFO  TestNGListener : 14 : test starts null
+2017-10-17 11:28:53 INFO  TestNGListener : 14 : test starts null
+2017-10-17 11:28:53 INFO  TestNGListener : 14 : test starts null
+2017-10-17 11:28:53 INFO  TestNGListener : 14 : test starts null
+2017-10-17 11:29:23 INFO  TestNGListener : 19 : test passed null during time 29604
+2017-10-17 11:29:38 INFO  TestNGListener : 24 : test failed null
+2017-10-17 11:29:39 INFO  TestNGListener : 24 : test failed null
+2017-10-17 11:29:41 INFO  TestNGListener : 24 : test failed null
+2017-10-17 11:29:43 INFO  TestNGListener : 24 : test failed null
+2017-10-17 11:29:44 INFO  TestNGListener : 44 : test ends Surefire test onTue Oct 17 11:29:44 EEST 2017
+2017-10-17 11:30:59 INFO  TestNGListener : 39 : test starts Surefire test on Tue Oct 17 11:30:59 EEST 2017
+2017-10-17 11:30:59 INFO  TestNGListener : 14 : test starts null
+2017-10-17 11:30:59 INFO  TestNGListener : 14 : test starts null
+2017-10-17 11:30:59 INFO  TestNGListener : 14 : test starts null
+2017-10-17 11:30:59 INFO  TestNGListener : 14 : test starts null
+2017-10-17 11:30:59 INFO  TestNGListener : 14 : test starts null
+2017-10-17 11:31:13 INFO  TestNGListener : 19 : test passed null during time 14010
+2017-10-17 11:31:14 INFO  TestNGListener : 19 : test passed null during time 14500
+2017-10-17 11:31:15 INFO  TestNGListener : 19 : test passed null during time 15259
+2017-10-17 11:31:15 INFO  TestNGListener : 19 : test passed null during time 15933
+2017-10-17 11:31:15 INFO  TestNGListener : 19 : test passed null during time 16106
+2017-10-17 11:31:16 INFO  TestNGListener : 44 : test ends Surefire test onTue Oct 17 11:31:16 EEST 2017
